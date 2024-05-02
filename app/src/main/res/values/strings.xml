@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleApp</string>
+    <string name="hi">Привет</string>
+    <string name="start">Старт</string>
+    <string name="bye">Пока</string>
+    <string name="firstNum">Первое слагаемое</string>
+    <string name="secondNum">Второе слагаемое</string>
+    <string name="count">Считать</string>
+    <string name="name">Скорик Константин РИБО-05-22</string>
+
+</resources>
